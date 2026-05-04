@@ -1,3 +1,3 @@
-## For SchemaSmith Demos, please visit the Community repositoru
+## For SchemaSmith Demos, please visit the Community repository
 
 https://github.com/Schema-Smith/SchemaSmith
